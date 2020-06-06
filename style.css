@@ -465,7 +465,9 @@ body{
 }
 
 
-
+.table tr.not-paied{
+	background-color: red !important;
+}
 
 
 
