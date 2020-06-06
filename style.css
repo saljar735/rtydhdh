@@ -460,7 +460,9 @@ body{
 	border: 1px solid #cccccc;
 }
 
-
+.table tr.partial{
+	background-color: yellow !important;
+}
 
 
 
